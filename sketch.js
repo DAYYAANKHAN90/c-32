@@ -29,9 +29,9 @@ var stars = [
 ];
 
 function preload() {
-  bgImg = loadImage("./assets/background.png");
-  starImg = loadImage("./assets/star.png");
-  playerImg = loadImage("./assets/player1.png");
+  bgImg = loadImage("./background.png");
+  starImg = loadImage("./star.png");
+  playerImg = loadImage("./player1.png");
 }
 
 function setup() {
